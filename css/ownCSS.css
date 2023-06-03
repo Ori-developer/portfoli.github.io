@@ -1,0 +1,19 @@
+.buttonCV{
+    background: none;
+    padding: 2%;
+    width: 50%;
+    border: 1px rgb(255, 255, 255) solid;
+    color: white;
+    line-height:52px;
+    padding:0 35px;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.buttonCV:hover{
+    cursor: pointer;
+    background-color: rgba(52, 245, 39, 0.38);
+    transition: 500ms;
+    transform: scale(1.2);
+}
